@@ -1,0 +1,34 @@
+theme = "harbor"
+baseurl = "https://womeneng.jp/"
+title = "womeneng.jp"
+paginate = 3
+languageCode = "jp"
+DefaultContentLanguage = "jp"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+# Optional
+# If you use googleAnalytics, you set top-level options in config.toml to the beginning of the config file like other top-level options.
+# googleAnalytics = "UA-XXXXXXXX-XX"
+# and disqus too.
+# disqusShortName = "yourdisqusshortname"
+
+[Author]
+  name = "womeneng.jp"
+
+[outputs]
+  section = ["JSON", "HTML"]
+
+[[params.nav]]
+  identifier = "about"
+  name = "About"
+  icon = "fas fa-user fa-lg"
+  url = "/about/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "stories"
+  name = "Stories"
+  icon = "fas fa-tag fa-lg"
+  url = "/stories/"
+  weight = 3
