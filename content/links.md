@@ -1,0 +1,13 @@
+---
+title: "Links"
+date: 2021-01-26T00:34:44+09:00
+draft: false
+---
+
+外部のメディアで書かれたキャリアストーリーへのリンク集です。
+
+追加は [Pull Request](https://github.com/womenengjp/womeneng.jp/blob/main/content/about.md) を送ってください。
+
+- [Example Engineer - Backend Engineer](https://google.com)
+- [Example Engineer - Backend Engineer](https://google.com)
+- [Example Engineer - Backend Engineer](https://google.com)
