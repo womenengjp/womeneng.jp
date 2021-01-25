@@ -46,3 +46,10 @@ footnoteReturnLinkContents = "^"
   icon = "fas fa-book fa-lg"
   url = "/stories/"
   weight = 3
+
+[[params.nav]]
+  identifier = "github"
+  name = "Github"
+  icon = "fas fa-github fa-lg"
+  url = "https://github.com/womenengjp/womeneng.jp"
+  weight = 3
