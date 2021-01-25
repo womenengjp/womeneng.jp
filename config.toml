@@ -29,6 +29,6 @@ footnoteReturnLinkContents = "^"
 [[params.nav]]
   identifier = "stories"
   name = "Stories"
-  icon = "fas fa-tag fa-lg"
+  icon = "fas fa-archive fa-lg"
   url = "/stories/"
   weight = 3
