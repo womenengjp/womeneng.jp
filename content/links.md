@@ -8,6 +8,4 @@ draft: false
 
 追加は [Pull Request](https://github.com/womenengjp/womeneng.jp/blob/main/content/about.md) を送ってください。
 
-- [Example Engineer - Backend Engineer](https://google.com)
-- [Example Engineer - Backend Engineer](https://google.com)
-- [Example Engineer - Backend Engineer](https://google.com)
+- [@wiroha - Android Engineer / 1人の女性がエンジニアになるまで](https://note.com/wiroha/n/n72cd1ad2d168)
