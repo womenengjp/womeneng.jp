@@ -19,6 +19,8 @@ This is an example post.
 This is an example post.
 This is an example post.
 
+![chaspy-image](/images/testdir/chaspy.jpg "chaspy-test")
+
 ### Second career
 
 This is an example post.
