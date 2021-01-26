@@ -10,6 +10,4 @@ womeneng.jp は女性エンジニアのキャリアストーリーを集めた�
 
 あなただけのキャリアを公開し、未来の女性エンジニアに選択肢を与えてみませんか。
 
-Story を投稿したい方は [Pull Request](https://github.com/womenengjp/womeneng.jp/tree/main/content/stories) を送ってください。
-
-外部サイトに書いた場合も [Links](https://github.com/womenengjp/womeneng.jp/blob/main/content/links.md) に追加いただけます。
+Contribution の方法は [CONTRIBUTING.md](https://github.com/womenengjp/womeneng.jp/blob/main/CONTRIBUTING.md) をご覧ください。
