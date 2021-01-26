@@ -11,6 +11,8 @@ draft: false
 
 This is an example post.
 
+![chaspy-image](/images/chaspy.jpg "chaspy-test")
+
 ### First carrer
 
 This is an example post.
