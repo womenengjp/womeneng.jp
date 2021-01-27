@@ -18,7 +18,7 @@
 
 [content/links.md](https://github.com/womenengjp/womeneng.jp/blob/main/content/links.md) を編集し、Pull Request を送ってください。
 
-Link は下に追記をお願いします。
+既に書かれているリンクの一番下に追記をお願いします。
 
 ## Typo を修正する
 
