@@ -53,3 +53,6 @@ footnoteReturnLinkContents = "^"
   icon = "fas fa-link fa-lg"
   url = "links"
   weight = 3
+
+[params]
+  customCSS = ["/css/custom.css"] # in case you use `/static/css/custom.css`
