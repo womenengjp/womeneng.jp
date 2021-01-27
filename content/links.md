@@ -10,3 +10,4 @@ draft: false
 
 - [@wiroha - Android Engineer / 1人の女性がエンジニアになるまで](https://note.com/wiroha/n/n72cd1ad2d168)
 - [@damuha_ - Web Engineer / 1人の女性がエンジニアになるまで〜だむはの場合〜](https://note.com/damuha/n/n2562b0e8b874)
+- [@hutegmin - System Engineer / 1人の女性がエンジニアになるまで～ふてぐみんの場合～](https://note.com/hutegmin/n/n43b9e5dfe5c5)
