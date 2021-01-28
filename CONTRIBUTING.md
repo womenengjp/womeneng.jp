@@ -4,7 +4,7 @@
 
 [content/stories](https://github.com/womenengjp/womeneng.jp/tree/main/content/stories) 以下に markdown でファイルを作成し、Pull Request を送ってください。
 
-* [Example Story](https://raw.githubusercontent.com/womenengjp/womeneng.jp/main/content/stories/example-story.md) を参考にしてください
+* [Aoi's Story](https://raw.githubusercontent.com/womenengjp/womeneng.jp/main/content/stories/aoi-story.md) を参考にしてください
 * titleは以下の形式にしたがってください。会社名は任意です。
 `名前（ハンドルネーム可) - 職種 ( at 会社名 )`
 * draft: false にしてください
