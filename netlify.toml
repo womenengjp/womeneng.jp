@@ -29,3 +29,27 @@ HUGO_VERSION = "v0.74.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+	cache-control = "public,max-age=31536000"
+
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+	cache-control = "public,max-age=31536000"
+
+[[headers]]
+  for = "/fontawesome/css/*"
+  [headers.values]
+	cache-control = "public,max-age=31536000"
+
+[[headers]]
+  for = "/*.woff2"
+  [headers.values]
+	cache-control = "public,max-age=31536000"
+
+[[headers]]
+  for = "/favicon.ico"
+  [headers.values]
+	cache-control = "public,max-age=31536000"
