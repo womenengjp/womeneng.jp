@@ -17,3 +17,5 @@ draft: false
 - [@yukamasuda - Frontend Engineer / 海外就職を考えているエンジニアにはちょっと役立つかもしれないこと色々。](https://note.com/y_ukyk/n/n248c1d2e79c2)
 - [@s_yo_ko - Software Engineer / とある女性がエンジニアになるまでの噺](https://note.com/s_yo_ko/n/n4167ce001118)
 - [@china_syuke - Machine Learning Engineer / 1人の女性がエンジニアになるまで〜ちなすけの場合〜](https://note.com/syuke_log/n/ndcd79071b809)
+- [@hnmx4 - Software Engineer / ソフトウェアエンジニアになるまでの話](https://haneuma0628.hatenablog.jp/entry/2021/01/26/230958)
+- [@skm070924 - System Engineer / 5000文字の自分語り～エンジニアになってしまったこれまでとこれから～](https://note.com/syno_nym/n/nd3c17389baee)
