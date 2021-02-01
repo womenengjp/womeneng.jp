@@ -53,6 +53,3 @@ googleAnalytics = "UA-36799270-8"
   icon = "fas fa-link fa-lg"
   url = "links"
   weight = 3
-
-[params]
-  customCSS = ["/css/custom.css"] # in case you use `/static/css/custom.css`
