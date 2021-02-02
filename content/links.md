@@ -22,3 +22,4 @@ draft: false
 - [@rllllho - Web Engineer / 1人の女性がエンジニアになるまで〜りほやんの場合〜](https://note.com/rlho/n/n2639d44892ce)
 - [@yuryu - Developer Advocate / 1人の女性がエンジニアになるまで 〜yuryuの場合〜](https://note.com/yuryu/n/n7d8730b8bba0)
 - [@kanahebi - Web Engineer / 1人の女性がエンジニアになるまで 〜kanahebiの場合〜](https://note.com/kanahebiz/n/nd57d47de3b83)
+- [@arisa_dev - Full Stack Developer / 改めて、もう少し詳しいエンジニアになるまでの自己紹介2021年版](https://note.com/frontendlifeinde/n/n08d35f0e57c1)
