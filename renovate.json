@@ -1,0 +1,10 @@
+{
+  "regexManagers": [
+    {
+      "fileMatch": ["^netlify.toml$"],
+      "matchStrings": ["HUGO_VERSION = \"(?<currentValue>.*?)\"\n"],
+      "depNameTemplate": "gohugoio/hugo",
+      "datasourceTemplate": "github-releases"
+    }
+  ]
+}
