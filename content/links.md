@@ -21,3 +21,4 @@ draft: false
 - [@skm070924 - System Engineer / 5000文字の自分語り～エンジニアになってしまったこれまでとこれから～](https://note.com/syno_nym/n/nd3c17389baee)
 - [@rllllho - Web Engineer / 1人の女性がエンジニアになるまで〜りほやんの場合〜](https://note.com/rlho/n/n2639d44892ce)
 - [@yuryu - Developer Advocate / 1人の女性がエンジニアになるまで 〜yuryuの場合〜](https://note.com/yuryu/n/n7d8730b8bba0)
+- [@kanahebi - Web Engineer / 1人の女性がエンジニアになるまで 〜kanahebiの場合〜](https://note.com/kanahebiz/n/nd57d47de3b83)
