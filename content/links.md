@@ -6,8 +6,6 @@ draft: false
 
 外部のメディアで書かれたキャリアストーリーへのリンク集です。
 
-追加は [Pull Request](https://github.com/womenengjp/womeneng.jp/blob/main/content/about.md) を送ってください。
-
 - [@wiroha - Android Engineer / 1人の女性がエンジニアになるまで](https://note.com/wiroha/n/n72cd1ad2d168)
 - [@damuha_ - Web Engineer / 1人の女性がエンジニアになるまで〜だむはの場合〜](https://note.com/damuha/n/n2562b0e8b874)
 - [@hutegmin - System Engineer / 1人の女性がエンジニアになるまで～ふてぐみんの場合～](https://note.com/hutegmin/n/n43b9e5dfe5c5)
@@ -23,3 +21,7 @@ draft: false
 - [@yuryu - Developer Advocate / 1人の女性がエンジニアになるまで 〜yuryuの場合〜](https://note.com/yuryu/n/n7d8730b8bba0)
 - [@kanahebi - Web Engineer / 1人の女性がエンジニアになるまで 〜kanahebiの場合〜](https://note.com/kanahebiz/n/nd57d47de3b83)
 - [@arisa_dev - Full Stack Developer / 改めて、もう少し詳しいエンジニアになるまでの自己紹介2021年版](https://note.com/frontendlifeinde/n/n08d35f0e57c1)
+- [@yaruki_beam - Data Scientist / 1人の女性がデータサイエンティストになるまで 〜前編〜](https://note.com/kabayan55/n/n095e386db628)
+- [黒猫の本棚 - Software Engineer / エンジニアやってる黒猫の本棚の昔話](https://note.com/bookshelf4cat/n/n2b2db16063d1)
+- [@amakawa - Frontend Engineer / Product Manager / Director / 1人の女性がエンジニアになるまで〜amakawaの場合〜](https://note.com/_amakawa/n/n670039349c4d)
+- [@chisaco - Web Engineer / 1人の女性がエンジニアになるまで〜chisacoの場合〜](https://chisaco0403.medium.com/1%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%8C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7-chisaco%E3%81%AE%E5%A0%B4%E5%90%88-3f8ef935aae4)
