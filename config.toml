@@ -53,3 +53,8 @@ googleAnalytics = "UA-36799270-8"
   icon = "fas fa-link fa-lg"
   url = "links"
   weight = 3
+
+[[params.social]]
+  name="GitHub"
+  url="https://github.com/womenengjp/womeneng.jp"
+  icon="fab fa-github"
