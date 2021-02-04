@@ -64,4 +64,4 @@ command = "npm run build && hugo --gc --minify --enableGitInfo"
 functions="./functions"
 
 [params]
-  OgpApiEndpoint = "https://womeneng.jp/.netlify/functions/getogp.js?url="
+  OgpApiEndpoint = "https://www.netlify.com/.netlify/functions/getogp.js?url="
