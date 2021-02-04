@@ -59,9 +59,5 @@ googleAnalytics = "UA-36799270-8"
   url="https://github.com/womenengjp/womeneng.jp"
   icon="fab fa-github"
 
-[build]
-command = "npm run build && hugo --gc --minify --enableGitInfo"
-functions="./functions"
-
 [params]
   OgpApiEndpoint = "https://womeneng.jp/.netlify/functions/getogp.js?url="
