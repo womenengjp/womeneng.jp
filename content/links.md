@@ -25,3 +25,4 @@ draft: false
 - [黒猫の本棚 - Software Engineer / エンジニアやってる黒猫の本棚の昔話](https://note.com/bookshelf4cat/n/n2b2db16063d1)
 - [@amakawa - Frontend Engineer / Product Manager / Director / 1人の女性がエンジニアになるまで〜amakawaの場合〜](https://note.com/_amakawa/n/n670039349c4d)
 - [@chisaco - Web Engineer / 1人の女性がエンジニアになるまで〜chisacoの場合〜](https://chisaco0403.medium.com/1%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%8C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7-chisaco%E3%81%AE%E5%A0%B4%E5%90%88-3f8ef935aae4)
+- [@taneko - System Engineer / 文系事務職女性が気づいたらSIerにいた話](https://note.com/tanekobunyan/n/nfa73ee7db378)
