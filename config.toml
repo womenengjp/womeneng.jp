@@ -60,4 +60,4 @@ googleAnalytics = "UA-36799270-8"
   icon="fab fa-github"
 
 [params]
-  OgpApiEndpoint = "https://localhost:9000/.netlify/functions/getogp.js?url="
+  OgpApiEndpoint = "https://${DEPLOY_PRIME_URL}/.netlify/functions/getogp.js?url="
