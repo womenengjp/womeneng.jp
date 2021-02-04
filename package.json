@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "netlify-lambda build src/functions/",
+  "serve": "netlify-lambda serve src/functions/"
+}
