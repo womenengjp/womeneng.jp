@@ -4,7 +4,8 @@
   "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/1fde15b6-4fc3-4a6c-a67e-b4d687ea5280/deploy-status)](https://app.netlify.com/sites/womenengjp/deploys)",
   "main": "index.js",
   "dependencies": {
-    "netlify-lambda": "^2.0.3"
+    "netlify-lambda": "^2.0.3",
+    "ogp-parser": "^0.5.4"
   },
   "devDependencies": {},
   "scripts": {
