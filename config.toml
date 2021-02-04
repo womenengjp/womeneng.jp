@@ -58,3 +58,7 @@ googleAnalytics = "UA-36799270-8"
   name="GitHub"
   url="https://github.com/womenengjp/womeneng.jp"
   icon="fab fa-github"
+
+[build]
+command = "npm run build && hugo --gc --minify --enableGitInfo"
+functions="./functions"
