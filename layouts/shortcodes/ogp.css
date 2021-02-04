@@ -1,0 +1,75 @@
+div.page-embed.hatena-web-card {
+    height: 155px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+div.page-embed.hatena-web-card div.embed-wrapper-inner {
+    padding: 12px;
+}
+
+div.page-embed.hatena-web-card div.embed-content.with-thumb {
+    height: 100px;
+    overflow: hidden;
+    position: relative;
+}
+
+div.page-embed.hatena-web-card div.embed-content.with-thumb .thumb-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+div.page-embed.hatena-web-card div.embed-content.with-thumb .thumb-wrapper .thumb {
+    width: auto;
+    max-width: 200%;
+    height: 100px;
+    border: none;
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+div.page-embed.hatena-web-card div.embed-content.with-thumb .entry-body {
+    margin-right: 110px;
+}
+
+div.page-embed.hatena-web-card div.embed-content.with-thumb .entry-body .entry-title {
+    font-size: 17px;
+    margin: 0 0 2px;
+    line-height: 1.4;
+    max-height: 47px;
+    overflow: hidden;
+    border: none;
+    background: #FFF;
+    padding: 0;
+}
+
+div.page-embed.hatena-web-card div.embed-content.with-thumb .entry-body .entry-content {
+    line-height: 1.5;
+    font-size: 12px;
+    max-height: 72px;
+    overflow: hidden;
+    border: none;
+    padding-bottom:0;
+}
+
+div.page-embed.hatena-web-card div.embed-footer {
+    margin-top: 8px;
+    height: 15px;
+    position: relative;
+    font-size: 11px;
+}
+
+div.page-embed.hatena-web-card div.embed-footer img.favicon {
+    display: inline;
+    vertical-align: middle;
+    border: none;
+}
+
+div.page-embed.hatena-web-card div.embed-footer img {
+    box-shadow: none;
+}
