@@ -1,4 +1,25 @@
-"scripts": {
-  "build": "netlify-lambda build src/functions/",
-  "serve": "netlify-lambda serve src/functions/"
+{
+  "name": "womeneng.jp",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/1fde15b6-4fc3-4a6c-a67e-b4d687ea5280/deploy-status)](https://app.netlify.com/sites/womenengjp/deploys)",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-lambda": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "netlify-lambda build src/functions/",
+    "serve": "netlify-lambda serve src/functions/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/womenengjp/womeneng.jp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/womenengjp/womeneng.jp/issues"
+  },
+  "homepage": "https://github.com/womenengjp/womeneng.jp#readme"
 }
