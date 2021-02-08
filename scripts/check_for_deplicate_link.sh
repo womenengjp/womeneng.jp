@@ -7,7 +7,7 @@
 LINKPATH="content/links.md"
 REGEX='(http(s?))://[A-Za-z0-9\+&@#/%?=~_|!:,.;]+'
 
-grep -E "^- " "${LINKPATH}" | while read line
+grep -E "^- " "${LINKPATH}" | while read -r line
 do
   if [[ $line =~ $REGEX ]];then 
     url="${BASH_REMATCH[0]}"
