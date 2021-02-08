@@ -1,0 +1,11 @@
+name: Check for duplicate link
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: check
+        run: bash ./scripts/check_for_deplicate_link.sh
