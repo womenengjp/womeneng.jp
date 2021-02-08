@@ -12,7 +12,7 @@ do
   if [[ $line =~ $REGEX ]];then 
     url="${BASH_REMATCH[0]}"
     count=$(grep -c "$url" "${LINKPATH}")
-    if [ $count -gt 1 ]; then
+    if [ "${count}" -gt 1 ]; then
       echo "found duplicate link. ${url}"
       exit 1
     fi
