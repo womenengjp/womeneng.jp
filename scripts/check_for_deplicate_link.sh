@@ -3,7 +3,7 @@
 # Script for checking duplicate link.
 # First, extract the link line that starts with "^- ".
 # Next, read the next line one by one and extract the url with regex.
-# Lastly, if a duplicate url exists, return an error  3 # Script for checking duplicate link.
+# Lastly, if a duplicate url exists, return an error.
 LINKPATH="content/links.md"
 REGEX='(http(s?))://[A-Za-z0-9\+&@#/%?=~_|!:,.;]+'
 
