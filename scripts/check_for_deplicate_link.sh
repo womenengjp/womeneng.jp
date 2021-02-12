@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Script for checking duplicate link.
-# First, extract the link line that starts with "^- ".
+# First, extract the link line that starts with "^\|".
 # Next, read the next line one by one and extract the url with regex.
 # Lastly, if a duplicate url exists, return an error.
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
