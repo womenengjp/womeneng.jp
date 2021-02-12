@@ -32,3 +32,4 @@ draft: false
 | @_risacan_ | Web Developer | [１人の女性がエンジニアになるまで〜りさきゃんの場合〜](https://note.com/risacan/n/nb4fc21f41bff)|
 | @yotii23 | Programmer | [１人の女性がエンジニアになるまで〜いつエンジニアになったか分からんパターン〜](https://note.com/yotii23/n/nd8d500341508)|
 | @LangSir_Cali | Fullstack Developer | [1人の女性がエンジニアになるまで 〜Aoiの場合〜](https://note.com/noot/n/nac3eaf8df76c)|
+| @infragirl755 | Infra Engineer | [1人の女性がインフラエンジニア兼漫画描きになるまで](https://infragirl.hatenablog.jp/entry/2021/02/11/103934)
