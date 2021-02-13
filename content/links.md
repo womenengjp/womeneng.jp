@@ -8,7 +8,7 @@ draft: false
 
 | account name | job category | title |
 | --- | --- | --- |
-| @wiroha | Andoroid Engineer | [1人の女性がエンジニアになるまで](https://note.com/wiroha/n/n72cd1ad2d168)|
+| @wiroha | Android Engineer | [1人の女性がエンジニアになるまで](https://note.com/wiroha/n/n72cd1ad2d168)|
 | @damuha_ | Web Engineer | [1人の女性がエンジニアになるまで〜だむはの場合〜](https://note.com/damuha/n/n2562b0e8b874)|
 | @hutegmin | System Engineer | [1人の女性がエンジニアになるまで～ふてぐみんの場合～](https://note.com/hutegmin/n/n43b9e5dfe5c5)|
 | @mana_cat | Infra Engineer | [仕事と育児の両立で挫折した私が、週4日勤務でエンジニアを続けるためにしたこと](https://engineer-lab.findy-code.io/3kidsmom-engineer)|
@@ -29,7 +29,9 @@ draft: false
 | @chisaco | Web Engineer | [1人の女性がエンジニアになるまで〜chisacoの場合〜](https://chisaco0403.medium.com/1%E4%BA%BA%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%8C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7-chisaco%E3%81%AE%E5%A0%B4%E5%90%88-3f8ef935aae4)|
 | @taneko | System Engineer | [文系事務職女性が気づいたらSIerにいた話](https://note.com/tanekobunyan/n/nfa73ee7db378)|
 | @kaori_cho | IT Engineer | [1人の女性がエンジニアになるまで by kaori_cho](https://note.com/kaori_cho/n/na606a8657970)|
-| @_risacan_ | Web Developer | [１人の女性がエンジニアになるまで〜りさきゃんの場合〜](https://note.com/risacan/n/nb4fc21f41bff)|
+| @\_risacan\_ | Web Developer | [１人の女性がエンジニアになるまで〜りさきゃんの場合〜](https://note.com/risacan/n/nb4fc21f41bff)|
 | @yotii23 | Programmer | [１人の女性がエンジニアになるまで〜いつエンジニアになったか分からんパターン〜](https://note.com/yotii23/n/nd8d500341508)|
 | @LangSir_Cali | Fullstack Developer | [1人の女性がエンジニアになるまで 〜Aoiの場合〜](https://note.com/noot/n/nac3eaf8df76c)|
-| @infragirl755 | Infra Engineer | [1人の女性がインフラエンジニア兼漫画描きになるまで](https://infragirl.hatenablog.jp/entry/2021/02/11/103934)
+| @infragirl755 | Infra Engineer | [1人の女性がインフラエンジニア兼漫画描きになるまで](https://infragirl.hatenablog.jp/entry/2021/02/11/103934)|
+| @cathywebby | Server Engineer | [1人の女性がエンジニアになるまで 〜Cathyの場合〜](https://note.com/cathywebby/n/n7df75cbea035)|
+| @cheddar_dev | Android Engineer | [田舎でAndroidエンジニアとして生きている話](https://note.com/cheddar_dev/n/ncdc4a4375822)|
