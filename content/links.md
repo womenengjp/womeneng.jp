@@ -35,3 +35,4 @@ draft: false
 | @infragirl755 | Infra Engineer | [1人の女性がインフラエンジニア兼漫画描きになるまで](https://infragirl.hatenablog.jp/entry/2021/02/11/103934)|
 | @cathywebby | Server Engineer | [1人の女性がエンジニアになるまで 〜Cathyの場合〜](https://note.com/cathywebby/n/n7df75cbea035)|
 | @cheddar_dev | Android Engineer | [田舎でAndroidエンジニアとして生きている話](https://note.com/cheddar_dev/n/ncdc4a4375822)|
+| @shiranuik | Serverside Engineer | [1人の女性がエンジニアになるまで〜shiranuikの場合〜](https://shiranuik.hatenablog.jp/entry/2021/02/15/214321)|
