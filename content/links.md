@@ -36,3 +36,4 @@ draft: false
 | @cathywebby | Server Engineer | [1人の女性がエンジニアになるまで 〜Cathyの場合〜](https://note.com/cathywebby/n/n7df75cbea035)|
 | @cheddar_dev | Android Engineer | [田舎でAndroidエンジニアとして生きている話](https://note.com/cheddar_dev/n/ncdc4a4375822)|
 | @shiranuik | Serverside Engineer | [1人の女性がエンジニアになるまで〜shiranuikの場合〜](https://shiranuik.hatenablog.jp/entry/2021/02/15/214321)|
+| @yukamasuda | Frontend Engineer | [私がパリでエンジニアになるまで 〜Yuka〜](https://waffle-waffle.org/2021/02/11/howtobeanengineerinparisbyyuka/)|
