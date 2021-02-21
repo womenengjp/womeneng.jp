@@ -37,3 +37,4 @@ draft: false
 | @cheddar_dev | Android Engineer | [田舎でAndroidエンジニアとして生きている話](https://note.com/cheddar_dev/n/ncdc4a4375822)|
 | @shiranuik | Serverside Engineer | [1人の女性がエンジニアになるまで〜shiranuikの場合〜](https://shiranuik.hatenablog.jp/entry/2021/02/15/214321)|
 | @yukamasuda | Frontend Engineer | [私がパリでエンジニアになるまで 〜Yuka〜](https://waffle-waffle.org/2021/02/11/howtobeanengineerinparisbyyuka/)|
+| @prprmurakami | Serverside Engineer | [一人の女性がエンジニアになるまで~高卒金髪エンジニアの場合~](https://note.com/prprmurakami/n/ne789cb13b64f)|
