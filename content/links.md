@@ -39,3 +39,4 @@ draft: false
 | @yukamasuda | Frontend Engineer | [私がパリでエンジニアになるまで 〜Yuka〜](https://waffle-waffle.org/2021/02/11/howtobeanengineerinparisbyyuka/)|
 | @prprmurakami | Serverside Engineer | [一人の女性がエンジニアになるまで~高卒金髪エンジニアの場合~](https://note.com/prprmurakami/n/ne789cb13b64f)|
 | @kimi07| System Engineer | [1人の女性がエンジニアになるまで 〜きみ の場合〜](https://note.com/divertimento/n/nf17f1d6ad37f)|
+| @asucarlos1| Full Stack Developer | [1人の女性がエンジニアになるまで 〜サッカー => 通信制高校 => 大学英語専攻 => カナダ => エンジニア〜](https://note.com/asucarlos/n/n344e96f06df5)|
