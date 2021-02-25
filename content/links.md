@@ -40,3 +40,5 @@ draft: false
 | @prprmurakami | Serverside Engineer | [一人の女性がエンジニアになるまで~高卒金髪エンジニアの場合~](https://note.com/prprmurakami/n/ne789cb13b64f)|
 | @kimi07| System Engineer | [1人の女性がエンジニアになるまで 〜きみ の場合〜](https://note.com/divertimento/n/nf17f1d6ad37f)|
 | @asucarlos1| Full Stack Developer | [1人の女性がエンジニアになるまで 〜サッカー => 通信制高校 => 大学英語専攻 => カナダ => エンジニア〜](https://note.com/asucarlos/n/n344e96f06df5)|
+| @asas_ari | System Engineer | [【番外編】１人の女性がエンジニアになるまで〜アリンの場合〜](https://note.com/asas_ari/n/n40c96e44fd9d)|
+| @myammm\_ | iOS Engineer | [ 音楽しかやってこなかった1人の女性がエンジニアになるまで 〜まやまの場合〜 ](https://note.com/myammm_/n/n6e3dc4eeface)|
