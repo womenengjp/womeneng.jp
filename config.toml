@@ -19,6 +19,14 @@ googleAnalytics = "UA-36799270-8"
 [outputs]
   section = ["JSON", "HTML"]
 
+[params]
+  description = "womeneng.jp"
+  images = ["/images/logo.png"]
+  title = "womeneng.jp"
+
+[taxonomies]
+  series = "series"
+
 [[params.nav]]
   identifier = "home"
   name = "About"
