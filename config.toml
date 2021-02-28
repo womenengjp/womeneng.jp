@@ -21,7 +21,7 @@ googleAnalytics = "UA-36799270-8"
 
 [params]
   description = "womeneng.jp"
-  images = ["static/images/logo.png"]
+  images = ["/images/logo.png"]
   title = "womeneng.jp"
 
 [taxonomies]
