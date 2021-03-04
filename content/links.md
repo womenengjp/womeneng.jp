@@ -42,3 +42,4 @@ draft: false
 | @asucarlos1| Full Stack Developer | [1人の女性がエンジニアになるまで 〜サッカー => 通信制高校 => 大学英語専攻 => カナダ => エンジニア〜](https://note.com/asucarlos/n/n344e96f06df5)|
 | @asas_ari | System Engineer | [【番外編】１人の女性がエンジニアになるまで〜アリンの場合〜](https://note.com/asas_ari/n/n40c96e44fd9d)|
 | @myammm\_ | iOS Engineer | [ 音楽しかやってこなかった1人の女性がエンジニアになるまで 〜まやまの場合〜 ](https://note.com/myammm_/n/n6e3dc4eeface)|
+| @nyanyami | Engineering Lead | [私がエンジニアになるまで](https://note.com/nyanyami/n/ndf893f74e327)|
