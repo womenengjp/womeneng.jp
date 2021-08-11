@@ -43,3 +43,4 @@ draft: false
 | @asas_ari | System Engineer | [【番外編】１人の女性がエンジニアになるまで〜アリンの場合〜](https://note.com/asas_ari/n/n40c96e44fd9d)|
 | @myammm\_ | iOS Engineer | [ 音楽しかやってこなかった1人の女性がエンジニアになるまで 〜まやまの場合〜 ](https://note.com/myammm_/n/n6e3dc4eeface)|
 | @nyanyami | Engineering Lead | [私がエンジニアになるまで](https://note.com/nyanyami/n/ndf893f74e327)|
+| @e99h2121 | Software Engineer | [未経験文系卒女性が開発に駆け出してみた話](https://qiita.com/e99h2121/items/5eefe618e97ba0e6df70)|
