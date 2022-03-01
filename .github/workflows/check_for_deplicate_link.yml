@@ -6,6 +6,6 @@ jobs:
     name: build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: check
         run: bash ./scripts/check_for_deplicate_link.sh
