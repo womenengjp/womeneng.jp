@@ -1,5 +1,5 @@
 theme = "harbor"
-baseurl = "https://womeneng.jp/"
+baseurl = "https://womenengjp.github.io/womeneng.jp/"
 title = "womeneng.jp"
 paginate = 3
 languageCode = "jp"
