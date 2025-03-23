@@ -31,28 +31,21 @@ googleAnalytics = "UA-36799270-8"
   identifier = "home"
   name = "About"
   icon = "fas fa-home fa-lg"
-  url = "/"
+  url = ""
   weight = 3
 
 [[params.nav]]
   identifier = "about"
   name = "About"
   icon = "fas fa-question fa-lg"
-  url = "/about/"
-  weight = 3
-
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "/search/"
+  url = "about"
   weight = 3
 
 [[params.nav]]
   identifier = "stories"
   name = "Stories"
   icon = "fas fa-book fa-lg"
-  url = "/stories/"
+  url = "stories"
   weight = 3
 
 [[params.nav]]
